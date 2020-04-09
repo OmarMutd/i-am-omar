@@ -8,6 +8,7 @@ function Projects() {
     return (
         <div>
            <Navbar />
+           <p>This is the Projects Page!</p>
             
         </div>
     )

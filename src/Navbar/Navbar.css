@@ -25,7 +25,7 @@
 }
 #cssmenu {
   width: auto;
-  border-bottom: 3px solid #47c9af;
+  border-bottom: 3px solid #2719e2;
   font-family: Raleway, sans-serif;
   line-height: 1;
 }
@@ -50,7 +50,7 @@
   margin-right: 0;
   margin-left: -4px;
 }
-/* #cssmenu > ul > li > a {
+  #cssmenu > ul > li > a {
   z-index: 2;
   padding: 18px 25px 12px 25px;
   font-size: 15px;
@@ -63,8 +63,8 @@
   -o-transition: all .2s ease;
   transition: all .2s ease;
   margin-right: -4px;
-} */
-/* #cssmenu > ul > li.active > a,
+} 
+ #cssmenu > ul > li.active > a,
 #cssmenu > ul > li:hover > a,
 #cssmenu > ul > li > a:hover {
   color: #ffffff;
@@ -93,5 +93,5 @@
 #cssmenu > ul > li.active > a:after,
 #cssmenu > ul > li:hover > a:after,
 #cssmenu > ul > li > a:hover:after {
-  background: #47c9af;
-} */
+  background: #2719e2;
+} 

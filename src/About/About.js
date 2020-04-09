@@ -1,8 +1,8 @@
-import React from 'react'
-import './Header.css'
+import React from 'react';
+import './About.css';
 import Navbar from '../Navbar/Navbar.js';
 
-function Header() {
+function About() {
     return (
     <div className='landing-container'>
     <Navbar/>
@@ -11,4 +11,4 @@ function Header() {
     )
 }
 
-export default Header
+export default About;
