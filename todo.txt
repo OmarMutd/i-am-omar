@@ -1,0 +1,4 @@
+- Combine techstacks to one highlight
+- Add digital clock
+- Get someone to design a banner
+- Make the banner the favicon [hoveron: react glasses. hover-off: express glasses]

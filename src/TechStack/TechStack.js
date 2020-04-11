@@ -13,7 +13,7 @@ function TechStack() {
   <Navbar />
       <div className='section-wrapper'>
         {/* <p>I spend my time building new websites and tools while simultaneously willing quirky side-projects into existence. I also have an unhealthy obsession with Elon Musk, I tend to impulsively learn new things for no apparent reason, and I think Indie music is pretty cool.</p> */}
-        <p className='underline'><br></br>Frontend.json:</p>
+        <p className='underline'><br></br>StuffICanDo.json:</p>
         {/* <WordList words={['HTML5', 'CSS3', 'Javascript', 'jQuery', 'React', 'Git', 'AJAX', 'Node', 'Postgres', 'Python']} /> */}
         <div className='my-code'>
           <Highlight className="json">
@@ -24,38 +24,26 @@ function TechStack() {
     "Javascript",
     "jQuery",
     "React",
-    "Git",
     "AJAX",
-    "Node",
-    "Postgres",
     `}
             "<span className="blinking-cursor">|</span>"
   {`
   ]
 }` }
-          </Highlight>
-          <p className='underline'><br></br>Backend.json:</p>
-          <Highlight className="json">
-            {`{
-  "Tech Stack": [
-    "HTML5",
-    "CSS3",
-    "Javascript",
-    "jQuery",
-    "React",
-    "Git",
-    "AJAX",
+
+{`{
+  "The stuff that goes on behind the scences": [
     "Node",
+    "Express",
+    "Knexjs",
     "Postgres",
+    "Git",
     `}
             "<span className="blinking-cursor">|</span>"
   {`
   ]
 }` }
-          </Highlight>
-        </div>
-        <p className='underline'><br></br>Languages.json:</p>
-        <Highlight className="json">
+
             {`{
   "Sounds that I can make": [
     'English',
@@ -66,6 +54,7 @@ function TechStack() {
   ]
 }` }
           </Highlight>
+        </div>
       </div>
     </section>
   );
