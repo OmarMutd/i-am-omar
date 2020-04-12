@@ -1,12 +1,10 @@
 import React from 'react'
 import './Contact.css'
-import Navbar from '../Navbar/Navbar.js';
 
 
 function Contact() {
     return (
         <div>
-            <Navbar/>
             <ul className='contact-info'>
           <li>
             <a 

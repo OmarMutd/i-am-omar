@@ -52,9 +52,9 @@
     background: black;
     color: #fff;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 70px;
     white-space: pre-wrap;
-    /* padding: 0.5em; */
+    /* width: -90%; */
   }
   
   .hljs-emphasis {
